@@ -47,9 +47,8 @@ Pympler==1.0.1
 pyparsing==3.0.9
 pyrsistent==0.19.3
 python-dateutil==2.8.2
-pytz==2022.7.1
-pytz-deprecation-shim==0.1.0.post0
-RegressorProject==0.0.1
+pytz
+pytz-deprecation-shim
 requests==2.28.2
 rich==13.3.1
 scikit-learn==1.2.2
