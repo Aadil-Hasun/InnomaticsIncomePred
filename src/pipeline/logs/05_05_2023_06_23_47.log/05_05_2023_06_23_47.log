@@ -1,0 +1,14 @@
+[ 2023-05-05 06:23:47,630 ] 160 numexpr.utils - INFO - NumExpr defaulting to 4 threads.
+[ 2023-05-05 06:23:49,645 ] 23 root - INFO - Data Ingestion beginning
+[ 2023-05-05 06:23:49,645 ] 29 root - INFO - Saving Train/Test datasets
+[ 2023-05-05 06:23:49,738 ] 35 root - INFO - Converting rare categories to a single category 'Other'
+[ 2023-05-05 06:23:50,066 ] 56 root - INFO - Data Ingestion completed successfully!
+[ 2023-05-05 06:23:50,176 ] 85 root - INFO - Reading of train and test data completed.
+[ 2023-05-05 06:23:50,176 ] 95 root - INFO - Obtaining preprocessing objects
+[ 2023-05-05 06:23:50,191 ] 27 root - INFO - Data Transformation initiated
+[ 2023-05-05 06:23:50,191 ] 73 root - INFO - Creation of data transformation pipeline completed
+[ 2023-05-05 06:23:50,191 ] 99 root - INFO - Applying preprocessing on train and test data
+[ 2023-05-05 06:23:50,754 ] 103 root - INFO - Preprocessing completed
+[ 2023-05-05 06:23:50,801 ] 115 root - INFO - Preprocessor pickle file saved
+[ 2023-05-05 06:23:50,801 ] 26 root - INFO - Splitting input and target variables
+[ 2023-05-05 06:25:59,927 ] 63 root - INFO - Best Model Found! , Model name: RandomForestClassifier, Accuracy: 0.0

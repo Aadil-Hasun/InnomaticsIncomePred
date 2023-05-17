@@ -1,0 +1,11 @@
+[ 2023-05-04 14:56:40,791 ] 160 numexpr.utils - INFO - NumExpr defaulting to 4 threads.
+[ 2023-05-04 14:56:42,764 ] 23 root - INFO - Data Ingestion beginning
+[ 2023-05-04 14:56:42,764 ] 29 root - INFO - Saving Train/Test datasets
+[ 2023-05-04 14:56:42,865 ] 35 root - INFO - Converting rare categories to a single category 'Other'
+[ 2023-05-04 14:56:43,197 ] 56 root - INFO - Data Ingestion completed successfully!
+[ 2023-05-04 14:56:43,297 ] 84 root - INFO - Reading of train and test data completed.
+[ 2023-05-04 14:56:43,313 ] 94 root - INFO - Obtaining preprocessing objects
+[ 2023-05-04 14:56:43,313 ] 26 root - INFO - Data Transformation initiated
+[ 2023-05-04 14:56:43,313 ] 72 root - INFO - Creation of data transformation pipeline completed
+[ 2023-05-04 14:56:43,313 ] 98 root - INFO - Applying preprocessing on train and test data
+[ 2023-05-04 14:56:43,366 ] 123 root - INFO - Exception has occured in the initiate_data_transformation function

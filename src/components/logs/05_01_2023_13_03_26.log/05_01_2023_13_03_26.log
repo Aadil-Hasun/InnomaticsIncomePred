@@ -1,0 +1,12 @@
+[ 2023-05-01 13:03:27,280 ] 160 numexpr.utils - INFO - NumExpr defaulting to 4 threads.
+[ 2023-05-01 13:03:29,877 ] 24 root - INFO - Data Ingestion beginning
+[ 2023-05-01 13:03:30,821 ] 28 root - INFO - Reading data as pandas dataframe
+[ 2023-05-01 13:03:30,833 ] 33 root - INFO - Begin Train/Test Split
+[ 2023-05-01 13:03:30,852 ] 37 root - INFO - Data Ingestion completed successfully!
+[ 2023-05-01 13:03:30,878 ] 67 root - INFO - Reading of train and test data completed.
+[ 2023-05-01 13:03:30,883 ] 75 root - INFO - Obtaining preprocessing objects
+[ 2023-05-01 13:03:30,883 ] 26 root - INFO - Data Transformation initiated
+[ 2023-05-01 13:03:30,883 ] 51 root - INFO - Creation of data transformation pipeline completed
+[ 2023-05-01 13:03:30,883 ] 79 root - INFO - Applying preprocessing on train and test data
+[ 2023-05-01 13:03:30,906 ] 87 root - INFO - Preprocessing completed
+[ 2023-05-01 13:03:30,912 ] 99 root - INFO - Preprocessor pickle files saved

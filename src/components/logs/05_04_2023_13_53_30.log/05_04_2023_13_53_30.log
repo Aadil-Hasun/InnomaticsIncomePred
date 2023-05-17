@@ -1,0 +1,5 @@
+[ 2023-05-04 13:53:31,147 ] 160 numexpr.utils - INFO - NumExpr defaulting to 4 threads.
+[ 2023-05-04 13:53:33,004 ] 23 root - INFO - Data Ingestion beginning
+[ 2023-05-04 13:53:33,004 ] 29 root - INFO - Saving Train/Test datasets
+[ 2023-05-04 13:53:33,120 ] 35 root - INFO - Converting rare categories to a single category 'Other'
+[ 2023-05-04 13:53:33,183 ] 64 root - INFO - Error has occured at Data Ingestion stage
